@@ -8,6 +8,7 @@
 	<div>
 		<?php include('menu/menu.php');?>
 	</div>
-	Sitio de prueba 
+	Sitio de prueba
+	<script src="menu/menu.js"></script> 
 </body>
 </html>
