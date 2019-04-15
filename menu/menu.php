@@ -10,6 +10,7 @@
 				<li><a href="#">Proyectos</a></li>
 				<li><a href="#">Trabajos</a></li>
 				<li><a href="#">Contacto</a></li>
+				<li><a href="#">Contacto2</a></li>
 			</ul>
 		</nav>
 	</div>
